@@ -23,6 +23,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Set repository context
         run: echo "GITHUB_REPOSITORY=${{ github.repository }}" >> "$GITHUB_ENV"
