@@ -12,20 +12,11 @@ request is opened on every merge to update it (see
 
 ## [Unreleased]
 
-### Added
-- Express + TypeScript + SQLite backend scaffold (index server, SQLite config,
-  schema with users / feed_items / deals tables and seed data).
-- Authentication: signup and login endpoints with bcryptjs password hashing and
-  JWT issuance (7-day expiry).
-- JWT verify middleware (`authenticateToken`) with role support.
-- Feed endpoints: list feed items and like/unlike a feed item.
-- Deals endpoints: list deals and request an introduction.
-- Health check endpoint (`GET /health`).
-- CI workflow (build-and-test) and CodeQL analysis on every pull request.
-- Dependabot configuration for automated npm dependency updates.
-
 ### Changed
-- (No prior versions to record.)
+
+- grant write permission to changelog workflow ([#17](https://github.com/Ambixion-Corp/thrivo-mobile-backend/pull/17))
+- fetch full git history so changelog generator can find last CHANGELOG.md commit ([#15](https://github.com/Ambixion-Corp/thrivo-mobile-backend/pull/15))
+- add release process documentation ([#14](https://github.com/Ambixion-Corp/thrivo-mobile-backend/pull/14))
 
 ## [1.0.0] - initial
 
