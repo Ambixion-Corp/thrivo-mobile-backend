@@ -14,9 +14,7 @@ request is opened on every merge to update it (see
 
 ### Changed
 
-- grant write permission to changelog workflow ([#17](https://github.com/Ambixion-Corp/thrivo-mobile-backend/pull/17))
-- fetch full git history so changelog generator can find last CHANGELOG.md commit ([#15](https://github.com/Ambixion-Corp/thrivo-mobile-backend/pull/15))
-- add release process documentation ([#14](https://github.com/Ambixion-Corp/thrivo-mobile-backend/pull/14))
+- bump @types/node from 26.2.0 to 26.4.0 ([#19](https://github.com/Ambixion-Corp/thrivo-mobile-backend/pull/19))
 
 ## [1.0.0] - initial
 
