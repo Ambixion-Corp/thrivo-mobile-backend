@@ -14,8 +14,7 @@ request is opened on every merge to update it (see
 
 ### Changed
 
-- bump @types/node from 26.4.0 to 26.4.1
-- bump @types/node from 26.2.0 to 26.4.0 ([#19](https://github.com/Ambixion-Corp/thrivo-mobile-backend/pull/19))
+- bump @types/node from 26.4.1 to 26.6.1
 
 ## [1.0.0] - initial
 
