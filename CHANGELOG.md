@@ -14,7 +14,8 @@ request is opened on every merge to update it (see
 
 ### Changed
 
-- bump @types/node from 26.4.1 to 26.6.1
+- bump dotenv from 17.4.2 to 18.0.3
+- bump @types/node from 26.6.1 to 26.6.2
 
 ## [1.0.0] - initial
 
