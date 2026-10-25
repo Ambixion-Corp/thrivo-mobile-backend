@@ -14,8 +14,8 @@ request is opened on every merge to update it (see
 
 ### Changed
 
-- bump @types/node from 26.6.2 to 26.6.4 ([#33](https://github.com/Ambixion-Corp/thrivo-mobile-backend/pull/33))
-- bump dotenv from 18.0.3 to 18.0.6 ([#32](https://github.com/Ambixion-Corp/thrivo-mobile-backend/pull/32))
+- bump @types/node from 26.6.4 to 26.6.5 ([#36](https://github.com/Ambixion-Corp/thrivo-mobile-backend/pull/36))
+- bump dotenv from 18.0.6 to 18.0.8 ([#37](https://github.com/Ambixion-Corp/thrivo-mobile-backend/pull/37))
 
 ## [1.0.0] - initial
 
